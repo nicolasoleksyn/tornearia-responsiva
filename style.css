@@ -1,0 +1,70 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+    background-color: #fff;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #2E7D32; /* Verde escuro */
+    color: #fff;
+    padding: 20px;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+h1 {
+    margin: 0;
+}
+
+/* Seções */
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+.about, .services {
+    background-color: #e8f5e9; /* Verde claro */
+    border-radius: 5px;
+}
+
+h2 {
+    color: #2E7D32; /* Verde escuro */
+}
+
+/* Rodapé */
+footer {
+    background-color: #2E7D32;
+    color: #fff;
+    padding: 20px;
+}
+
+/* Botões de contato */
+.contact-buttons {
+    margin: 10px 0;
+}
+
+.button {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.whatsapp {
+    background-color: #25D366; /* Verde WhatsApp */
+}
+
+.instagram {
+    background-color: #3c30e1; /* Rosa Instagram */
+}
